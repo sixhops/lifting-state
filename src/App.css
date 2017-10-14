@@ -1,0 +1,33 @@
+.App {
+  width: 50%;
+  margin: auto;
+  padding: 1em;
+}
+
+.listItem {
+  padding: 0.25em;
+  background: lightblue;
+  margin: 0.25em;
+  font-size: 1.8em;
+}
+
+form {
+  text-align: center;
+}
+
+a {
+  vertical-align: middle;
+  font-size: 0.4em;
+}
+
+[type=text] {
+  font-size: 1em;
+}
+
+form [type=text] {
+  font-size: 1.4em;
+}
+
+[type=submit] {
+  font-size: 1.4em;
+}
